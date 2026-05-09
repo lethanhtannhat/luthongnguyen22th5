@@ -61,9 +61,9 @@ def generate_precise_time_csv(file_name, n, start_str, end_str, start_h_limit, e
 # --- CẤU HÌNH ---
 N_ROWS = 313
 # Ngày 20 bắt đầu từ 18:00
-START_POINT = "05/07/2026 21:27" 
+START_POINT = "05/09/2026 13:27" 
 # Ngày 26 kết thúc lúc 23:59 để lấy được các giờ tối ngày 26
-END_POINT = "05/12/2026 16:59"    
+END_POINT = "05/11/2026 21:59"    
 
 # Giới hạn khung giờ hoạt động mỗi ngày
 LIMIT_START_H = 7
